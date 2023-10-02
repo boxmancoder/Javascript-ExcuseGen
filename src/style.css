@@ -1,1 +1,21 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  text-align: center;
+  margin-top: 200px;
+  background-color: rgb(18, 164, 226);
+}
+
+#excuse {
+  font-size: 40px;
+  font-family: "Preahvihear", sans-serif;
+}
+
+h1 {
+  color: white;
+  font-family: "Preahvihear", sans-serif;
+}
+
+#excuse {
+  color: white;
+}
